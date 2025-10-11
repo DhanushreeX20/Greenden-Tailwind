@@ -11,13 +11,11 @@ The **Greenden Plant Store** website is designed to provide users with a smooth,
 It highlights different plant categories, and allows users to explore available products or contact the store easily.
 
 ---
-
-## 🚀 Features
-
 - 🌱 **Home Page:**  
   - Eye-catching banner introducing the store  
   - Short description about the brand and sustainability message  
-  - Featured product section  
+  - Featured product section
+  - Live chat box to analyze more about plant shopping 
 
 - 🛒 **Products Page:**  
   - Responsive product grid layout  
@@ -40,8 +38,25 @@ It highlights different plant categories, and allows users to explore available 
 - **Tailwind CSS** – For styling and layout  
 
 ---
+
+🔗 **Live Demo:** [View Website](https://dhanushreex20.github.io/Greenden-Tailwind/)
+
+---
+
+## ✨ Features
+
+- 🌱 Fully responsive layout  
+- 🎨 Tailwind CSS utility-based styling (no custom CSS)  
+- 🖼️ Iconic improvements using SVG and Heroicons  
+- ☁️ Smooth shadow effects on cards and buttons  
+- 🖱️ Hover transitions and animations for images and links  
+- 💬 Live chat box on the bottom corner  
+- 🌗 Clean and modern color theme  
+- 📱 Optimized for both mobile and desktop views  
+
+---
 🌿 “Let’s make the world greener, one plant at a time.”
 💚 Thank you for visiting Greenden!
 - **HTML5** – For website structure  
-- **Tai**
+- **Tailwind - For styling **
 # Greenden-Tailwind
